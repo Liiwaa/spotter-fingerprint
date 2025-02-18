@@ -1,0 +1,14 @@
+.fingerprint-graph-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+
+.graph {
+  margin-top: 20px;
+  width: 100%;
+  border-radius: 15px;
+  background-color: white;
+}
